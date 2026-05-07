@@ -35,3 +35,9 @@ This dataset includes 50 agricultural trials covering:
 - data/
 - dashboard/
 - images/
+## 👨‍💻 Developer
+
+![Profile](images/profile.png)
+## 📊 Dashboard Preview
+
+![Dashboard](images/dashboard.png)
